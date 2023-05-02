@@ -4,3 +4,19 @@
     border: solid 3px black;
     padding-left: 10px;
 }
+
+.lista {
+    list-style: lower-roman;
+}
+
+.tabla {
+    border: solid 2px black;
+    padding-left: 10px;
+}
+
+.tabla2 {
+    border-style: dashed;
+    display: inline;
+}
+
+
